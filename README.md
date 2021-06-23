@@ -1,8 +1,7 @@
-# DropzoneJS example #1
+# Dropzone Uploader
 
 DropzoneJS example with everything you will need, translations, custom preview and a powerful PHP code to handle upload/delete the file
 
-**Read the [full article](https://onyxdev.net/snippets-item/dropzonejs-example-with-translations-custom-preview-and-upload-delete-file-with-php/) on [**Onyxdev**](https://onyxdev.net/)**
 
 DropzoneJS has been around for a couple of years now, and various features can be used in clever ways. I wanted here to share with you a full example with DropzoneJS and what you can do with it, made nice and easy including the PHP function to handle the file upload and delete from server.
 
